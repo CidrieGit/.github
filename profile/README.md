@@ -1,13 +1,15 @@
 # CIDRIE INTERNS 
-
+<!--
 
 
 ### The Interns
 - #### Advaith Narayanan,
   [Email](mailto:advaithnarayanan8@gmail.com) | [Twitter](https://twitter.com/advaithnarayan)
+- #### Amalendu P,
+  [Email](mailto:advaithnarayanan8@gmail.com) | [Twitter](https://twitter.com/advaithnarayan)
 
 
-<!--
+
 
 **Here are some ideas to get you started:**
 
